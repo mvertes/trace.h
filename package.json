@@ -1,0 +1,9 @@
+{
+
+  "name": "trace",
+  "version": "1.0",
+  "repo": "mvertes/trace.h",
+  "description": "Macros for temporary debug traces",
+  "keywords": ["debug", "trace"],
+  "src": ["trace.h"]
+}
